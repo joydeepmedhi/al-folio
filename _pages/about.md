@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Machine Learning Research Engineer@<a href="#">Mercedes-Benz</a>
+description: Machine Learning Research Engineer @ <a href="#">Mercedes-Benz</a>
 
 profile:
   align: right
